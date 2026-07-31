@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
