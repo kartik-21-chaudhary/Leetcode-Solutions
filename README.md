@@ -56,14 +56,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
