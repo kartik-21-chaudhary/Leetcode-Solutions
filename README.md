@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -50,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bit Manipulation
@@ -133,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
