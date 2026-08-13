@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
