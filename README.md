@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
