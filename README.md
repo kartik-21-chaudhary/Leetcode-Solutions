@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [2595-number-of-even-and-odd-bits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
