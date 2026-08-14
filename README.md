@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0877-stone-game) |
