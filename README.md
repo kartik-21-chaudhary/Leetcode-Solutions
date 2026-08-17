@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
