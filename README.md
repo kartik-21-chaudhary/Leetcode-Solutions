@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
