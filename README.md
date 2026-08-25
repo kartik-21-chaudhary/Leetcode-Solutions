@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quickselect
 |  |
