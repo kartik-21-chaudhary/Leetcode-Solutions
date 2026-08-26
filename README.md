@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
