@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
