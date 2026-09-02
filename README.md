@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
