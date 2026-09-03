@@ -5,9 +5,9 @@ class Solution {
         for(int i =1;i<nums.length;i++){
             if(vote == 0){
             element = nums[i];
-            vote = 0;
+            vote = 1;
         }
-            if(element == nums[i] ){
+            else if(element == nums[i] ){
                 vote++;
             }
             else{
