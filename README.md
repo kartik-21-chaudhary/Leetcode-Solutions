@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
