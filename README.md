@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
@@ -356,4 +357,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
