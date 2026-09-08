@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
