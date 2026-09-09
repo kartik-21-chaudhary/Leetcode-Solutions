@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0504-base-7) |
+| [0567-permutation-in-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
