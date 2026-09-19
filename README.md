@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
