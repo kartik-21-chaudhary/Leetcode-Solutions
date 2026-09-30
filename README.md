@@ -425,4 +425,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
