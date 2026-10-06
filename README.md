@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -449,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
