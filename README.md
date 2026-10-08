@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0504-base-7) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Linked List
@@ -304,10 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
@@ -465,4 +469,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
