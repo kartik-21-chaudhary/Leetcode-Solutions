@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0504-base-7) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
