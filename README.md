@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -493,4 +495,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
