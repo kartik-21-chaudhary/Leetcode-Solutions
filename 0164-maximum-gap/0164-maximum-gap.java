@@ -7,7 +7,7 @@ class Solution {
         int min = 0;
         for(int i =0;i<nums.length;i++){
             if(i == nums.length-1){
-                break
+                break;
             }
             int gap = nums[i+1] - nums[i];
             min =  Math.max(min,gap);
