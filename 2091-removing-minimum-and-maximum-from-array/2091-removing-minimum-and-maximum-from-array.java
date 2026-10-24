@@ -13,7 +13,7 @@ class Solution {
         int left = Math.min(min, max);
         int right = Math.max(min, max);
 
-        reurn Math.min(right + 1,
+        return Math.min(right + 1,
                 Math.min(n - left, left + 1 + n - right));
     }
 }
