@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0049-group-anagrams) |
