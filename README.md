@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3028-ant-on-the-boundary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3028-ant-on-the-boundary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3903-smallest-stable-index-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3028-ant-on-the-boundary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
