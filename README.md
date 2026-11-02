@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
