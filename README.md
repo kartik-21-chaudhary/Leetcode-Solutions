@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
+| [3340-check-balanced-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
