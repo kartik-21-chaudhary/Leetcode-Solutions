@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2562-find-the-array-concatenation-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
