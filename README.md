@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2427-number-of-common-factors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Quicksort
 |  |
 | ------- |
