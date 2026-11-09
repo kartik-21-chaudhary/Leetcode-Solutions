@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2390-removing-stars-from-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
