@@ -1,14 +1,17 @@
 class Solution {
     public boolean canAliceWin(int[] nums) {
-        int singleSum = 0;
-        int doubleSum = 0;
-        for (int num:nums) {
-            if (num<10) {
-                singleSum += num;
-            } else {
-                doubleSum += num;
+        int singlesum = 0;
+        int doublesum = 0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i] <= 9){
+                singlesum += nums[i];
+            }else{
+                doublesum += nums[i];
             }
         }
-        return singleSum != doubleSum;
+        if(singlesum != doublesum){
+            return true;
+        }
+        return false;
     }
 }
