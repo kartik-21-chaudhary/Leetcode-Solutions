@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1528-shuffle-string) |
@@ -488,11 +489,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
 |  |
 | ------- |
