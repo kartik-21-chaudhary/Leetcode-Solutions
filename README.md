@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3668-restore-finishing-order](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
