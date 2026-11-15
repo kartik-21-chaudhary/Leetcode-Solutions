@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
