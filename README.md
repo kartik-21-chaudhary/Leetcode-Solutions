@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
