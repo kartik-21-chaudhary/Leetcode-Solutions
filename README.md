@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
