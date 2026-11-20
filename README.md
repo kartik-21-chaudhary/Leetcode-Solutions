@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
