@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Euclidean Algorithm
 |  |
 | ------- |
