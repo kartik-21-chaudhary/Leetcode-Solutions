@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kartik-21-chaudhary/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Tree
 |  |
